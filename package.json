@@ -1,5 +1,5 @@
 {
-  "name": "@qbtl/businnes-card",
+  "name": "@qbtl/businness-card",
   "version": "1.0.0",
   "description": "A personal card for Quentin Boitel (@qbtl)",
   "main": "/bin/card.js",
@@ -34,14 +34,11 @@
   ],
   "devDependencies": {
     "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
+    "chalk": "^2.4.2",
     "standard": "^12.0.1"
   },
   "bugs": {
     "url": "https://github.com/qbtl/business-card/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
