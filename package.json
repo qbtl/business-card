@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qbtl/business-card.git"
+    "url": "git+https://github.com/qbtl/businness-card.git"
   },
   "homepage": "https://quentinboitel.netlify.app",
   "scripts": {
@@ -38,7 +38,10 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/qbtl/business-card/issues"
+    "url": "https://github.com/qbtl/businness-card/issues"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
