@@ -1,5 +1,5 @@
 {
-  "name": "@qbtl/businness-card",
+  "name": "@qbtl/business-card",
   "version": "1.0.0",
   "description": "A personal card for Quentin Boitel (@qbtl)",
   "main": "/bin/card.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qbtl/businness-card.git"
+    "url": "git+https://github.com/qbtl/business-card.git"
   },
   "homepage": "https://quentinboitel.netlify.app",
   "scripts": {
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/qbtl/businness-card/issues"
+    "url": "https://github.com/qbtl/business-card/issues"
   },
   "dependencies": {},
   "publishConfig": {
