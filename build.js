@@ -18,7 +18,7 @@ const data = {
   name: chalk.white('               Quentin Boitel'),
   handle: chalk.white('qbtl'),
   work: chalk.white('Engineering student at ISEN Méditerrannée'),
-  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('qbtl2'),
+  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('quentin_boitel'),
   github: chalk.gray('https://github.com/') + chalk.green('qbtl'),
   web: chalk.cyan('https://quentinboitel.live'),
   npx: chalk.red('npx') + ' ' + chalk.white('@qbtl/businness-card  (via GitHub Package Registry)'),
