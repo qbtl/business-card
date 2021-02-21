@@ -1,6 +1,6 @@
 {
   "name": "@qbtl/business-card",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A personal card for Quentin Boitel (@qbtl)",
   "main": "/bin/card.js",
   "bin": {
