@@ -20,7 +20,7 @@ const data = {
   work: chalk.white('Engineering student at ISEN Méditerrannée'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('qbtl2'),
   github: chalk.gray('https://github.com/') + chalk.green('qbtl'),
-  web: chalk.cyan('https://quentinboitel.netlify.app'),
+  web: chalk.cyan('https://quentinboitel.live'),
   npx: chalk.red('npx') + ' ' + chalk.white('@qbtl/businness-card  (via GitHub Package Registry)'),
   labelWork: chalk.white.bold('       Work:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
